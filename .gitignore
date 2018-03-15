@@ -1,0 +1,8 @@
+Debug
+ipch
+.vs
+*.swp
+*.sln
+*.db
+*.vcxproj
+*.filters
